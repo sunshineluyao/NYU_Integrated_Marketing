@@ -1,0 +1,862 @@
+﻿LOCATION,Country,Measure,Frequency,TIME,Unit Code,Value
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,50719.7
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,51371
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,52211.9
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,52561.7
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,53023
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,53553.3
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,54425.3
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,54884.4
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,55265.8
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,55165.8
+AUS,Australia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,50912.7
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,47774.3
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,47971.5
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,48240
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,48144.9
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,48043.2
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,48037.8
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,48267
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,48331.5
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,48464.6
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,48136.2
+AUS,Australia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,44660
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,45448.4
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,45610.2
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,46103.4
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,46602.7
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,47431
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,48279.6
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,49092.2
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,49574.3
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,49752.3
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,46845.5
+FRA,France,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,39852.4
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,42389.3
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,42417.5
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,42472.3
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,42607.4
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,42841.1
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,43046.6
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,43126
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,43168.8
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,43041.5
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,40455.8
+FRA,France,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,34876.6
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,51019
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,51559.8
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,51761.2
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,51974.4
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,52338.3
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,52354.2
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,52959.5
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,52975
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,53302.3
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,52195.3
+DNK,Denmark,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,48546.8
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,49971.8
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,49826.2
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,50027.8
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,49820.2
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,49952.4
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,50235.8
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,49958.1
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,50094.6
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,50062.3
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,49096.6
+DEU,Germany,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,44296.4
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,37300.9
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,37467.3
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,37634.1
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,37806.8
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,37930.5
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,38051
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,38127
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,38147.6
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,38229.7
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,36159.5
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,29712.6
+ESP,Spain,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q3,USD,34667.9
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,47349.4
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,47495.6
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,47667.1
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,47771.5
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,48123.7
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,48141.3
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,48219.9
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,48405.3
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,48632.6
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,46913.8
+BEL,Belgium,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,41369.9
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,49170.7
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,49611
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,50094
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,50412.5
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,50547.7
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,50846.4
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,51537.9
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,51648.4
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,51669.9
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,50632.9
+CAN,Canada,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,44462.8
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,67992.1
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,68788.6
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,69665.9
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,69457.4
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,69554.1
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,70061.3
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,70900.7
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,71412.4
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,72170.5
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,70585.7
+CHE,Switzerland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,64282.8
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,55057.5
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,55903.3
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,56633.7
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,56968.7
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,57769.9
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,58526.7
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,58827.2
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,59226.1
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,59088
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,57813.2
+AUT,Austria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,50477.1
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,45627.4
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,45782.9
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,45836.3
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,45905.6
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,45793.8
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,45835.2
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,46083.6
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,45989.7
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,45800.2
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,44719.7
+CAN,Canada,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,39492.3
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,39891.1
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,40311.4
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,40856.5
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,41290.6
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,41905.6
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,42537.2
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,43171.8
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,43595.4
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,43969.5
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,42766.3
+CZE,Czech Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,38900.9
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,65494.8
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,66099.1
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,66513.5
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,66169.8
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,65954.7
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,66177.1
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,66411.1
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,66580.7
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,66954.6
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,65192.2
+CHE,Switzerland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,59738.9
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,24253.8
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,24494.4
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,24780.9
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,24732.6
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,24965
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,24898.7
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,25229.6
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,25472.5
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,24616.5
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,25263.6
+CHL,Chile,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,22270.1
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,51453.9
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,52004.7
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,52200
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,52250.3
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,52618.6
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,52990.1
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,52781.3
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,52869.9
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,52501.5
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,51145.8
+AUT,Austria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,44928.4
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,51197.4
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,51517.5
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,52101.9
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,52451.6
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,53329.5
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,53916
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,54675.1
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,55283.6
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,55719.5
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,54464.7
+BEL,Belgium,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,47330.7
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,36971.1
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,37196.9
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,37398.4
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,37555.4
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,37787.9
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,37961.3
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,38131.8
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,38258
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,38376.6
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,37092.8
+CZE,Czech Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,33848.4
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,55705
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,56418
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,56972.9
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,57357.4
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,58105.7
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,58449.7
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,59627.7
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,59926.2
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,60590.3
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,59537.9
+DNK,Denmark,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,55031.1
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,54213.9
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,54162.6
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,54749.6
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,54739.7
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,55244.2
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,55946.6
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,56175.1
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,56629.1
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,56839.6
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,55958.9
+DEU,Germany,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,49957.8
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,40103.9
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,40157.3
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,40456.5
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,40722
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,41106.2
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,41569.9
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,42085
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,42372.4
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,42655.6
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,40539.8
+ESP,Spain,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,33105.9
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,22973.3
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,23180.5
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,23328
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,23214.9
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,23344.9
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,23289.6
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,23423.9
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,23521
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,22466.6
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,22910.5
+CHL,Chile,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,19792.9
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,29257.6
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,29801.9
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,30134.8
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,30515.8
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,30838.3
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,31345.1
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,31587.8
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,31892.5
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,32093.7
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,31976.6
+HUN,Hungary,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,27311.2
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,37036.8
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,37283.8
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,37244.1
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,37326.5
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,37403.8
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,37736.6
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,37638.2
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,37827.7
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,38065.9
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,37237
+ISR,Israel,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,34073.9
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,45432.6
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,45482
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,45413.4
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,45497.1
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,45656.1
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,45821.6
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,46223.3
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,46102.3
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,45803.5
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,45146.6
+FIN,Finland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,43163.7
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,38458
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,38484.1
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,38541.1
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,38524.1
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,38591
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,38667.6
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,38773.6
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,38802.6
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,38726.5
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,36636.2
+ITA,Italy,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,31929
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,32506
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,32749.3
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,33119
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,33362.9
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,33764.7
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,34315.9
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,34567.6
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,35039.6
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,35003
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,34171.7
+EST,Estonia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,32231.3
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,39365.5
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,39745.6
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,40026.8
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,40433.7
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,40911.3
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,41634.7
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,41857.5
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,42363.8
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,42849.1
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,42113.2
+ISR,Israel,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,38380.4
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,27666.9
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,27846.5
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,27795.1
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,28043.7
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,28183.7
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,28368.7
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,28621
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,28691.8
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,28444.4
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,28260.7
+GRC,Greece,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,24302.6
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,30572
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,31229.9
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,31809.9
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,32366.9
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,32944.6
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,33714.9
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,34299.9
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,34823.3
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,35215.5
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,35237.3
+HUN,Hungary,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,29971.6
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,78740.1
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,80452
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,80308.8
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,81460.9
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,81584.5
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,82141.1
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,83406.4
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,85885.6
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,86766.4
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,84751.5
+IRL,Ireland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,79403.1
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,42334.9
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,42470.4
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,42816.8
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,42984.5
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,43337.5
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,43658.8
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,44179.7
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,44442.9
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,44558.9
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,42314.6
+ITA,Italy,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,36603.3
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,43558.5
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,43523.5
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,43624.9
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,43819.8
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,43827.7
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,44003.2
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,43930.1
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,44013.3
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,44019.9
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,42851.2
+GBR,United Kingdom,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,34315.5
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,48466.3
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,48762.8
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,49134.8
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,49519.3
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,50091.7
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,50636.6
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,51591.7
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,51756.9
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,51674.1
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,51146.4
+FIN,Finland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,48644.3
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,29551
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,29886.8
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,30059.7
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,30405.5
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,30668.4
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,30903.4
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,31360.4
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,31542.9
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,31381.6
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,31316.7
+GRC,Greece,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,26790.9
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,82870
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,84498.5
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,84638.7
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,85953.2
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,86527.2
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,87408.9
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,89379.7
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,92281.8
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,93733.9
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,92062
+IRL,Ireland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,85795.5
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,46323.1
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,46303.4
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,46678
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,47092.3
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,47458.4
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,48068.4
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,48505.5
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,48920.4
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,49180
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,48141.1
+GBR,United Kingdom,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,38560.8
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,34792.4
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,35274.5
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,36025.1
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,36506.8
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,37222.1
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,38061.6
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,38706.1
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,39438.3
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,39573.4
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,38803.8
+EST,Estonia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,36436.1
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,41974.8
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,41823.3
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,41965.2
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,41656.1
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,41934.1
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,42250.3
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,42419.7
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,42809.5
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,41766.4
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,41532.6
+JPN,Japan,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,38243.4
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,29273.7
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,29689.2
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,30089.5
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,30471.8
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,30701.4
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,31147.7
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,31366.9
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,31746.3
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,31809.9
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,31703.8
+POL,Poland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,28905.7
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,33484.3
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,33786.2
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,34321.8
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,34685.3
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,35170
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,35762.3
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,36441.6
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,36838.8
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,37291.3
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,35910.9
+PRT,Portugal,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,30682
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,41218.1
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,41005.1
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,41341.9
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,41220.6
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,41866.9
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,42657.8
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,43376.1
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,44119
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,43299.2
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,43232.2
+JPN,Japan,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,39606.6
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,106328.1
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,107535.8
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,106311.1
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,106251.5
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,106115.8
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,105515.6
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,107279.1
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,107177.4
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,107129.7
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,105135.6
+LUX,Luxembourg,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,97482.8
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,20242.8
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,20572.2
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,20675.9
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,20731.3
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,20700.6
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,20711.3
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,20737.2
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,20697.4
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,20597.9
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,20391
+MEX,Mexico,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,16788.8
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,38963.5
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,38967.6
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,39170.4
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,39199
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,39366.6
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,39421.2
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,39355.1
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,39464.7
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,39389.4
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,38644.7
+NZL,New Zealand,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,34817.3
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,64302.4
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,66113.6
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,67539.6
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,69213.5
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,68597
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,67578.7
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,66777.7
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,66136.2
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,67570.1
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,66192.8
+NOR,Norway,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,60567
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,19030.8
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,19232.4
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,19172.7
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,19166.8
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,19072.7
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,19063.1
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,18986.5
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,18899
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,18745.8
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,18484.9
+MEX,Mexico,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,15297.7
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,56438.5
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,56795.4
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,57542.4
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,57767.3
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,58246.4
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,58774.2
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,59418.4
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,59749.7
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,60137.4
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,59410.8
+NLD,Netherlands,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,53978.3
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,61546.8
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,61725.8
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,61797
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,62108.8
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,62153.9
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,62115.7
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,62148.2
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,62022.3
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,62831.4
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,61673.2
+NOR,Norway,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,58473.6
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,30372
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,30692.1
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,31204.3
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,31688.1
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,32171.8
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,32952.2
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,33572.3
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,34215.8
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,34469.7
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,34491
+POL,Poland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,31275.6
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,31865.4
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,32110.8
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,32455.3
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,32747.6
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,32885.2
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,33078.2
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,33183.4
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,33296.7
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,33480.9
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,31769.1
+SVK,Slovak Republic,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,29122.6
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,114444.7
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,116488.8
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,115971.9
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,116321.7
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,117542.4
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,117894
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,121330
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,121911.8
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,122562.4
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,120798.1
+LUX,Luxembourg,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,110638
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,52823.4
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,53009.4
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,53280
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,53292.5
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,53403.9
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,53624.9
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,53745.2
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,53798.8
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,53921.6
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,53057.8
+NLD,Netherlands,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,48503.3
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,41778.8
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,41871.9
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,42347.3
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,42503.2
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,42886.4
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,43133.6
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,43390.6
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,43703.9
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,43807.6
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,43168.6
+NZL,New Zealand,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,38691.4
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,31864.4
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,32130.6
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,32405.8
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,32574.8
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,32707.5
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,32925.4
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,33103.2
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,33227.6
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,33433.5
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,32057
+PRT,Portugal,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,27587.4
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,31546.9
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,31844.7
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,32385.1
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,32803.5
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,33136.4
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,33540.5
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,33937.3
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,34227.9
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,34582.2
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,33050.6
+SVK,Slovak Republic,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,30084.8
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,53247.6
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,53250.9
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,53755.5
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,53554.1
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,54525.5
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,55144.4
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,55719.1
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,56169.5
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,56451
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,56709.2
+SWE,Sweden,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,51738.6
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,58928.3
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,59411.3
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,59739.4
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,59968
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,60085
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,60461.4
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,60621.4
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,60922.1
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,61194.4
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,60358.8
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,54873.5
+USA,United States,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q3,USD,58853.7
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,35027.8
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,35079.8
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,35509.6
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,35889.9
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,36174.1
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,36409.8
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,36317.1
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,36550.8
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,36645.2
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,34884.4
+SVN,Slovenia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,31400.6
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,50292.2
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,50392
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,50658.1
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,50274.4
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,50701.8
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,50699.5
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,50599.8
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,50609
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,50562.4
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,50587.5
+SWE,Sweden,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,46332
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,61166.3
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,62030.8
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,62909.3
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,63401
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,63827
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,64391.1
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,64976.6
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,65525.9
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,66064.2
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,65430.2
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,59170.1
+USA,United States,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q3,USD,64042.6
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,37901.8
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,38047.8
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,38785.4
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,39381.9
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,39985.4
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,40542.9
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,40843.3
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,41347.1
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,41658.4
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,39821.2
+SVN,Slovenia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,35659.6
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,29184.3
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,29671
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,30490
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,31100
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,31591.3
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,31589.1
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,32065.5
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,32413.5
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,32620
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,32058.3
+LVA,Latvia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,29667.7
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,27166.3
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,27487.4
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,28028.7
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,28479.8
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,28781.1
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,28673.5
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,28909.7
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,29113
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,29187.6
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,28563.3
+LVA,Latvia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,26588.1
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,56941.7
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,56849.1
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,57030.8
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,57028.7
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,59177.5
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,58932
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,59679.7
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,59426.1
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,62374.8
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,58848.2
+ISL,Iceland,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,53536
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,53373.9
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,52720.1
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,52725.9
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,52238.9
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,53607.3
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,52489.8
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,52499.5
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,51861.8
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,54087.7
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,50767.9
+ISL,Iceland,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,46062.5
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,19493.8
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,19707.9
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,19922.1
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,19913.7
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,19941.9
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,20068.1
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,20334.5
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,20522
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,20719.1
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,20352.9
+CRI,Costa Rica,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,18532.9
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,17777.2
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,17882.1
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,17936.9
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,17867.7
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,17815.6
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,17891
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,18000.9
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,18104.9
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,18204.4
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,17817.5
+CRI,Costa Rica,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,16288.1
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,41346.8
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,41765.1
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,42147.6
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,42388.5
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,42658.7
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,42395
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,42941.9
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,43120
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,43704.5
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,43242.2
+KOR,Korea,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,41827.3
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,40258.1
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,40632
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,40832.9
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,41017.9
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,41327
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,41144.9
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,41513.6
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,41627.2
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,42132.5
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,41560.5
+KOR,Korea,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,40220.2
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,34533.6
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,35266.6
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,35913.4
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,36269.6
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,36673.4
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,37757.1
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,38335.5
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,38653.4
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,39055.1
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,39132.6
+LTU,Lithuania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,36738.9
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,32154.4
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,32720.4
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,33109.1
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,33419.3
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,33774.1
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,34444.7
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,34703.5
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,34903.4
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,35168
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,35169.6
+LTU,Lithuania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,33096.2
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,21789.6
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,21999.7
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,22367.3
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,22682.2
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,23330.7
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,24010.1
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,24488.9
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,24932.9
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,25548.2
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,25720.8
+BGR,Bulgaria,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,22933.4
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,20239.2
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,20390.8
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,20594.6
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,20834.7
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,21075.8
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,21389.9
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,21527.5
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,21676
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,21878.9
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,22017.7
+BGR,Bulgaria,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,19814.3
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,24965.6
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,25095.1
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,25664.9
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,25938.6
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,26090.4
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,26600.7
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,26756.9
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,26986.7
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,27372.8
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,27392.1
+ROU,Romania,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,24157.5
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,27880.8
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,28021.4
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,28875.7
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,29419.2
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,30005.6
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,31097.7
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,31755.8
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,32372.9
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,33074.8
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,33279.8
+ROU,Romania,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,29105.1
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2017-Q4,USD,46501.9
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q1,USD,46880.3
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q2,USD,47136.8
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q3,USD,47258.1
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2018-Q4,USD,47262.3
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q1,USD,46635.7
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q2,USD,46459.7
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q3,USD,45895.5
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2019-Q4,USD,45742.3
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q1,USD,45093.5
+SAU,Saudi Arabia,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted",Quarterly,2020-Q2,USD,42636.3
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2017-Q4,USD,48316.7
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q1,USD,48350.4
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q2,USD,49073.9
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q3,USD,49048.2
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2018-Q4,USD,49568.6
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q1,USD,48285.6
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q2,USD,48963.8
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q3,USD,48838.4
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2019-Q4,USD,49358.9
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q1,USD,47278.8
+SAU,Saudi Arabia,"Per Head, US $, current prices, current PPPs, seasonally adjusted",Quarterly,2020-Q2,USD,42000.9
